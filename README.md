@@ -50,6 +50,10 @@ places.
 - An alarm system to indicate if the RAM utilization exceeds 95% to indicate it to the user.
 - A GUI for all the output mentioned above providing an easy analysis to the user
 
+
+<img width="302" alt="ss1" src="https://user-images.githubusercontent.com/103515662/209469215-0a1c06ea-4ec6-4afe-8779-88ab692e2ac0.png">
+
+
 <hr> 
 
 ## For more information -
