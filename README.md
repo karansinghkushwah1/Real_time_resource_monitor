@@ -61,6 +61,7 @@ https://www.youtube.com/watch?v=g5jxJE0LJYA </br>
 https://pypi.org/project/psutil/ </br>
 https://pypi.org/project/pyqtgraph/ </br>
 https://pypi.org/project/PyQt5/ </br>
+https://github.com/earthinversion/SystemMonitorApp </br>
 
 <hr>
 ______________________________________________________________________________
