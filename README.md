@@ -53,6 +53,9 @@ places.
 
 <img width="302" alt="ss1" src="https://user-images.githubusercontent.com/103515662/209469215-0a1c06ea-4ec6-4afe-8779-88ab692e2ac0.png">
 
+Process Info - </br>
+<img width="409" alt="ss2" src="https://user-images.githubusercontent.com/103515662/209802138-e8aad082-c567-4bc1-9098-200464c07950.png">
+
 
 <hr> 
 
